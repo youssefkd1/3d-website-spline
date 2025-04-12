@@ -272,6 +272,9 @@ main{
         margin-bottom: 200px;
         margin-top: 40px;
     }
+    .description{
+        margin-bottom: 50px;
+    }
 }
 
 @media (max-width: 768px){
